@@ -8,6 +8,9 @@ public class Unity : MonoBehaviour
     void Start()
     {
         Debug.Log("Hola Mundo");
+        Debug.Log("Hola Mundo");
+        Debug.Log("Hola Mundo");
+
     }
 
 }
