@@ -8,5 +8,6 @@ namespace Hola
 {
     class Animaciones
     {
+        int uno;
     }
 }
